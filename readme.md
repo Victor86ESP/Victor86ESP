@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Víctor! 
 
 ### 🌟 **Sobre mí**
-Soy un apasionado de la tecnología y la programación, en constante aprendizaje y en búsqueda de nuevas oportunidades para crecer profesionalmente. Actualmente estoy aprendiendo y desarrollando proyectos en **[tu lenguaje/tecnología favorita]**. ¡Estoy abierto a colaborar en proyectos interesantes y desafiantes! 🚀
+Soy un apasionado de la tecnología y la programación, en constante aprendizaje y en búsqueda de nuevas oportunidades para crecer profesionalmente. Actualmente estoy aprendiendo y desarrollando proyectos en **HTML**,**CSS**,**JavaScript** y **Python**. ¡Estoy abierto a colaborar en proyectos interesantes y desafiantes! 🚀
 
 ---
 
