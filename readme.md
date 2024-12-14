@@ -14,26 +14,6 @@ Soy un apasionado de la tecnología y la programación, en constante aprendizaje
   - **Unity** para diseño de prefabs, física de objetos y modding de videojuegos.
 
 
-### 📜 **Certificados**
--Legacy JavaScript Algorithms and Data Structures(FreeCodeCamp)
--JavaScript Certification Course(Programmin Hub)
--Introduction to JavaScript(SoloLearn)
--JavaScript(SoloLearn)
--JavaScript Intermediate(SoloLearn)
--Web Development(SoloLearn)
--Introduction to HTML(SoloLearn)
--Responsive Web Design(FreeCodeCamp)
--Full-stack Development(Mimo)
--Introduction to Python(SoloLearn)
--Python Intermediate(SoloLearn)
--Python Advanced Certification Course(Programmin Hub)
--Python Certification Course(Programmin Hub)
--Coding Foundations(SoloLearn)
--Data Science Certification Course(Programmin Hub)
--HTML Certification Course(Programmin Hub)
--CSS Certification Course(Programmin Hub)
--Introduction to SQL(SoloLearn)
--Introduction to CSS(SoloLearn)
 
 ---
 
