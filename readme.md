@@ -34,7 +34,7 @@ Soy un apasionado de la tecnología y la programación, en constante aprendizaje
 
 ### 🌐 **Conecta conmigo**
 - 📫 **Correo:** aocodersspain@gmail.com  
-- 🎮 **YouTube:** https://www.youtube.com/@AOcodersSpain 
+- 🎮 **YouTube:** <a href="https://www.youtube.com/@AOcodersSpain" target="_blank">https://www.youtube.com/@AOcodersSpain</a>
 - 💻 **Proyectos destacados:** https://github.com/Victor86ESP/Lista-Tareas-Pendientes
 
 ---
